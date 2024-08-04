@@ -6,13 +6,6 @@ namespace CodingTracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, C# Academy one more modification"); Console.WriteLine("Hello, C# Academy one more modification");
-            Console.WriteLine("Hello, C# Academy one more modification");
-            Console.WriteLine("Hello, C# Academy one more modification");
-            Console.WriteLine("Hello, C# Academy one more modification");
-            Console.WriteLine("Hello, C# Academy one more modification");
-            Console.WriteLine("Hello, C# Academy one more modification");
-            Console.WriteLine("Hello, C# Academy one more modification");
             Console.WriteLine("Hello, C# Academy one more modification");
         }
     }
