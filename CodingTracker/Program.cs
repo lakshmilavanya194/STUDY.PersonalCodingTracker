@@ -15,5 +15,20 @@ namespace CodingTracker
             Console.WriteLine("Hello, C# Academy one more modification");
             Console.WriteLine("Hello, C# Academy one more modification");
         }
+
+        static void MyFirstMethod()
+        {
+            // Do Something
+        }
+
+        static void MySecondMethod()
+        {
+            // Do Something
+        }
+
+        static void MyThirdMethod()
+        {
+            // Do Something
+        }
     }
 }
